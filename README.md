@@ -1,4 +1,6 @@
-Este projeto funciona junto de uma API chamada Reqres para autenticar o login, ou seja, você deve fornecer o email correto para conseguir o resultado da última imagem. Faça o clone do projeto na sua máquina para conferir as animações.
+# Página de Login
+
+Este projeto funciona junto de uma API chamada Reqres para autenticar o login, ou seja, você deve fornecer o email correto para conseguir o resultado da última imagem. Faça o clone do projeto na sua máquina para conferir as animações!
 
 Email: "eve.holt@reqres.in" <br>
 Senha: "cityslicka"
